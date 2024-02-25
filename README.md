@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hazar_kir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hazar_kir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hazar-kır" target="blank"><img align="center" src="https://www.linkedin.com/in/hazar-k%C4%B1r-8207a7260/" alt="hazar-kır" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hazar-kır-8207a7260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazar-kır-8207a7260" height="30" width="40" /></a>
 <a href="https://fb.com/hazarkir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hazarkir" height="30" width="40" /></a>
 <a href="https://instagram.com/hazarkir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hazarkir" height="30" width="40" /></a>
 <a href="https://medium.com/@kirhazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kirhazar" height="30" width="40" /></a>
