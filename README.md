@@ -1,4 +1,4 @@
-<img>![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/309822036/original/73fa73e39d28c1ce070a193df7381de23d35a2b4/code-html-css-react-js-express-js-rest-api-7e9e.png)</img>
+<img>![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/225329328/original/8a8650442ed62fec6b59f69be20aa0f4c43e8582/code-html-css-react-js-javascript-nodejs-rest-api-expressjs.png)</img>
 <h1 align="center">Hi 👋, I'm Hazar Kir</h1>
 <h3 align="center">Junior web developer from Turkey</h3>
 
